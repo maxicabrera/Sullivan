@@ -1,0 +1,23 @@
+<svg class="chart" version="1.1" id="read" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="156.5px" height="111.567px" viewBox="10.5 17.62 156.5 111.567" style="enable-background:new 10.5 17.62 156.5 111.567;"
+	 xml:space="preserve">
+	 
+	<g id="pc">
+		<rect x="14.909" y="20.687" class="st0" width="133.808" height="85.568"/>
+		<rect x="76.188" y="106.993" class="st1" width="11.25" height="13.309"/>
+		<line class="st2" x1="62.098" y1="121.611" x2="101.528" y2="121.611"/>
+		<rect x="27.283" y="32.197" class="st3" width="11.388" height="9.219"/>
+	</g>
+	<g id="magnify">
+		<path class="st4" d="M147.687,108.534c8.891-7.461,10.051-20.717,2.59-29.608c-7.461-8.891-20.717-10.051-29.608-2.59
+			c-8.892,7.461-10.051,20.717-2.59,29.607C125.54,114.835,138.795,115.995,147.687,108.534"/>
+		<path class="st5" d="M136.472,80.678c0,0,9.459,3.757,9.459,12.521"/>
+		
+			<rect x="144.183" y="111.732" transform="matrix(-0.6428 -0.766 0.766 -0.6428 163.3771 306.7419)" class="st6" width="18.046" height="7.095"/>
+		<circle class="st7" cx="134.178" cy="92.435" r="21.016"/>
+	</g>
+	<g id="upto">
+		<polyline class="st8" points="33.883,92.775 50.41,67.652 71.047,82.49 89.628,52.066 	"/>
+		<polyline class="st8" points="70.938,82.49 89.519,52.066 109.135,69.771 131.852,36.168 	"/>
+	</g>
+</svg>

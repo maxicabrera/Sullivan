@@ -1,0 +1,16 @@
+<svg class="arrow" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="115.667px" height="106.333px" viewBox="0 0 115.667 106.333" style="enable-background:new 0 0 115.667 106.333;"
+	 xml:space="preserve">
+	<g id="arrow_1">
+		<line class="st5" x1="55.77" y1="96.264" x2="55.77" y2="8.859"/>
+		<polyline class="st5" points="66.784,19.388 55.719,8.323 44.654,19.388 	"/>
+		<g>
+			<path class="st3" d="M60.402,89.212c0,0,1.175-41.764-38.945-43.879"/>
+		</g>
+		<polyline class="st5" points="93.613,61.066 104.678,50.001 93.613,38.936 	"/>
+		<polyline class="st5" points="19.516,61.066 8.451,50.001 19.516,38.936 	"/>
+		<path class="st5" d="M55.83,96.616c0,0,7.401-51.633-45.465-46.698"/>
+		<path class="st3" d="M51.835,89.744c0,0-1.175-41.764,38.945-43.879"/>
+		<path class="st5" d="M56.299,96.616c0,0-7.401-51.633,45.465-46.698"/>
+	</g>
+</svg>
